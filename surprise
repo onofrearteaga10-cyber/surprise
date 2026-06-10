@@ -164,7 +164,7 @@
    ============================================================ */
 const CONFIG = {
   // Act 1 — the combination lock
-  secretCode: "2005",                 // <<< 4-digit code she must guess
+  secretCode: "3010",                 // <<< 4-digit code she must guess
   wrongMsg:   "Take a guess honey",   // shown when the combination is wrong
   openMsg:    "Unlocked",             // shown for a moment when she gets it right
 
